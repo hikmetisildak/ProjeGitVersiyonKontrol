@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         
         print("Main/Master'dan selamlar")
         print("Değişiklik Main'den")
+        print("Değişiklik GitHub tarafında yapıldı")
     }
 
     @IBAction func btnTikla(_ sender: Any) {
