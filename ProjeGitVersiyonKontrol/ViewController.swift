@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("Main/Master'dan selamlar")
+        print("Değişiklik Main'den")
     }
 
     @IBAction func btnTikla(_ sender: Any) {
